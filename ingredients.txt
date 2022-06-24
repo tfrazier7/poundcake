@@ -3,5 +3,6 @@ eggs
 sugar
 milk
 butter
-baking soda
+baking powder
+strawberries
 
